@@ -13,7 +13,7 @@
 
 - ⚡ Fun fact **I think i love data more than human**
 
-<div align="center">
+-<div align="center">
 #  GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=PranavShiralkar&theme=codeSTACKr&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=PranavShiralkar&theme=codeSTACKr&hide_border=false)<br/>
