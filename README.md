@@ -14,7 +14,6 @@
 - ⚡ Fun fact **I think i love data more than human**
 
 - # 💫 About Me:
-wq[a'<br>
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=PranavShiralkar&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
