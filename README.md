@@ -13,6 +13,19 @@
 
 - ⚡ Fun fact **I think i love data more than human**
 
+- # 💫 About Me:
+wq[a'<br>
+
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=PranavShiralkar&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=PranavShiralkar&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=PranavShiralkar&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+---
+[![](https://visitcount.itsvg.in/api?id=PranavShiralkar&icon=0&color=0)](https://visitcount.itsvg.in)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://kaggle.com/https://www.kaggle.com/chiralis" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="https://www.kaggle.com/chiralis" height="30" width="40" /></a>
