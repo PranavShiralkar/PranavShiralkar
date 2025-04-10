@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Pranav Shiralkar</h1>
+<h1 align="center"> I'm Pranav Shiralkar</h1>
 <h3 align="center">A passionate Data Scientist Leveraging Data to Drive Insights, Visualization and Model The Machines</h3>
 
 - 🔭 I’m currently working on **FORGE- British Airways**
